@@ -1,0 +1,24 @@
+.details-container{
+
+    width : 450px;
+    margin-left: auto;
+	margin-right: auto;
+
+}
+
+.details-container > h1{
+    text-align: center;
+}
+
+
+.cajalogin{
+
+	width: 400px;
+	margin: 40px auto;
+	border-radius: 3px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 50px;
+	padding-right: 50px;
+
+}
